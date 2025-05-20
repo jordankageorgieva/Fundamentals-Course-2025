@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="360dc9fb-f83d-49e7-843d-4b5574fa8efb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_ex/12_Christmas Spirit v3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_ex/12_Christmas Spirit_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/1. Find the Largest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/2. Find the Capitals.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_ex/12_Christmas Spirit.py" beforeDir="false" afterPath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_ex/12_Christmas Spirit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_ex/.~lock.01-Basic-Syntax-Conditional-Statements-and-Loops-Exercise.docx#" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,49 +44,7 @@
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\01_Basic Syntax, Conditional Statements and Loops\_ex" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.12_Christmas Spirit">
-    <configuration name="10_Mutate Strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Fundamentals-Course-2025" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_ex" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_ex/10_Mutate Strings.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="11_Easter Bread" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Fundamentals-Course-2025" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_ex" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_ex/11_Easter Bread.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.2. Find the Capitals">
     <configuration name="12_Christmas Spirit v3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,13 +108,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="1. Find the Largest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentals-Course-2025" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/1. Find the Largest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2. Find the Capitals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentals-Course-2025" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/2. Find the Capitals.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2. Find the Capitals" />
+        <item itemvalue="Python.1. Find the Largest" />
         <item itemvalue="Python.12_Christmas Spirit" />
         <item itemvalue="Python.12_Christmas Spirit v3" />
         <item itemvalue="Python.12_Christmas Spirit_v2" />
-        <item itemvalue="Python.11_Easter Bread" />
-        <item itemvalue="Python.10_Mutate Strings" />
       </list>
     </recent_temporary>
   </component>
