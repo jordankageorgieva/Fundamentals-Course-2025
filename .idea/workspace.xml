@@ -5,10 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="360dc9fb-f83d-49e7-843d-4b5574fa8efb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/1. Find the Largest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/2. Find the Capitals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/02_Data Types and Variables/__ex/02-Data-Types-and-Variables-Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/02_Data Types and Variables/__ex/10_Gladiator Expenses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/02_Data Types and Variables/__ex/1_Integer Operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/02_Data Types and Variables/__ex/2_Chars to String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/02_Data Types and Variables/__ex/3_Elevator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/02_Data Types and Variables/__ex/4_Sum of Chars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/02_Data Types and Variables/__ex/5_Print Part of the ASCII Table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/02_Data Types and Variables/__ex/6_Triples of Latin Letters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/02_Data Types and Variables/__ex/7_Water Overflow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/02_Data Types and Variables/__ex/8_Party_Profit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/02_Data Types and Variables/__ex/9_Snowballs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_ex/.~lock.01-Basic-Syntax-Conditional-Statements-and-Loops-Exercise.docx#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/.~lock.01-Basic-Syntax-Conditional-Statements-and-Loops-More-Exercise.docx#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/2. Find the Capitals.py" beforeDir="false" afterPath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/2. Find the Capitals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_lab/.~lock.01-Basic-Syntax-Conditional-Statements-and-Loops-Lab.docx#" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,15 +48,16 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_ex" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/phyton/02_Data Types and Variables/__ex" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\02_Data Types and Variables\__ex" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\01_Basic Syntax, Conditional Statements and Loops\_ex" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2. Find the Capitals">
-    <configuration name="12_Christmas Spirit v3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.10_Gladiator Expenses">
+    <configuration name="10_Gladiator Expenses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_ex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/02_Data Types and Variables/__ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_ex/12_Christmas Spirit v3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/02_Data Types and Variables/__ex/10_Gladiator Expenses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12_Christmas Spirit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5_Print Part of the ASCII Table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_ex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/02_Data Types and Variables/__ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_ex/12_Christmas Spirit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/02_Data Types and Variables/__ex/5_Print Part of the ASCII Table.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12_Christmas Spirit_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6_Triples of Latin Letters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_ex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/02_Data Types and Variables/__ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_ex/12_Christmas Spirit_v2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/02_Data Types and Variables/__ex/6_Triples of Latin Letters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1. Find the Largest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="7_Water Overflow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/02_Data Types and Variables/__ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/1. Find the Largest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/02_Data Types and Variables/__ex/7_Water Overflow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2. Find the Capitals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9_Snowballs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/02_Data Types and Variables/__ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/2. Find the Capitals.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/02_Data Types and Variables/__ex/9_Snowballs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2. Find the Capitals" />
-        <item itemvalue="Python.1. Find the Largest" />
-        <item itemvalue="Python.12_Christmas Spirit" />
-        <item itemvalue="Python.12_Christmas Spirit v3" />
-        <item itemvalue="Python.12_Christmas Spirit_v2" />
+        <item itemvalue="Python.10_Gladiator Expenses" />
+        <item itemvalue="Python.9_Snowballs" />
+        <item itemvalue="Python.7_Water Overflow" />
+        <item itemvalue="Python.6_Triples of Latin Letters" />
+        <item itemvalue="Python.5_Print Part of the ASCII Table" />
       </list>
     </recent_temporary>
   </component>
@@ -181,6 +193,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
