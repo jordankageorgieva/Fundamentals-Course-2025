@@ -19,3 +19,7 @@ for index in range(number_of_snowballs):
 
 print(f"{snowball_weight} : {snowball_time} = {int(highest_snowball_value)} ({snowball_quality})")
 
+
+for index in range (1, 10):
+    print( f" index  to the {index} power {index ** index}")
+
