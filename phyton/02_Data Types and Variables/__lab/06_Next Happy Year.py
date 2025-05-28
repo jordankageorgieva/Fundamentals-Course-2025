@@ -9,6 +9,6 @@ while not happy_year:
     for digit in year_as_str:
         print(f"digit is {digit}")
         if not is_happy:
-            digit 
+            digit
 
     happy_year = True

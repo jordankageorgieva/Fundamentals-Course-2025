@@ -5,15 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="360dc9fb-f83d-49e7-843d-4b5574fa8efb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/phyton/02_Data Types and Variables/__lab/02-Data-Types-and-Variables-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/02_Data Types and Variables/__lab/02-Data-Types-and-Variables.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/02_Data Types and Variables/__lab/02_Convert Meters to Kilometers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/02_Data Types and Variables/__lab/03_Pounds to Dollars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/02_Data Types and Variables/__lab/04_Centuries to Minutes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/02_Data Types and Variables/__lab/05_Special Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/02_Data Types and Variables/__lab/06_Next Happy Year.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/02_Data Types and Variables/__lab/1_Concat Names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/01-Basic-Syntax-Conditional-Statements-and-Loops-Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/1_Number Definer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_lab/03_word_reverse_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_lab/05. Number Between 1 and 100_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_lab/05_Number Between 1 and 100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_lab/06_Shopping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_lab/7_Patterns.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/01-Basic-Syntax-Conditional-Statements-and-Loops-More-Exercise.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phyton/02_Data Types and Variables/__lab/.~lock.02-Data-Types-and-Variables-Lab.docx#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phyton/02_Data Types and Variables/__lab/06_Next Happy Year.py" beforeDir="false" afterPath="$PROJECT_DIR$/phyton/02_Data Types and Variables/__lab/06_Next Happy Year.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phyton/02_Data Types and Variables/__more_ex/.~lock.02-Data-Types-and-Variables-More-Exercises.docx#" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,18 +45,19 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/phyton/02_Data Types and Variables/__lab" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\01_Basic Syntax, Conditional Statements and Loops\_add" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\02_Data Types and Variables\__lab" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\02_Data Types and Variables\__more_ex" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\02_Data Types and Variables\__ex" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\01_Basic Syntax, Conditional Statements and Loops\_ex" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.06_Next Happy Year">
-    <configuration name="02_Convert Meters to Kilometers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.7_Patterns">
+    <configuration name="03_word_reverse_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/02_Data Types and Variables/__lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/02_Data Types and Variables/__lab/02_Convert Meters to Kilometers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_lab/03_word_reverse_v2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_Pounds to Dollars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05. Number Between 1 and 100_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/02_Data Types and Variables/__lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/02_Data Types and Variables/__lab/03_Pounds to Dollars.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_lab/05. Number Between 1 and 100_v2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_Centuries to Minutes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05_Number Between 1 and 100" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/02_Data Types and Variables/__lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/02_Data Types and Variables/__lab/04_Centuries to Minutes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_lab/05_Number Between 1 and 100.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_Special Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06_Shopping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/02_Data Types and Variables/__lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/02_Data Types and Variables/__lab/05_Special Numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_lab/06_Shopping.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_Next Happy Year" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="7_Patterns" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/02_Data Types and Variables/__lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/02_Data Types and Variables/__lab/06_Next Happy Year.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_lab/7_Patterns.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.06_Next Happy Year" />
-        <item itemvalue="Python.05_Special Numbers" />
-        <item itemvalue="Python.04_Centuries to Minutes" />
-        <item itemvalue="Python.03_Pounds to Dollars" />
-        <item itemvalue="Python.02_Convert Meters to Kilometers" />
+        <item itemvalue="Python.7_Patterns" />
+        <item itemvalue="Python.06_Shopping" />
+        <item itemvalue="Python.05_Number Between 1 and 100" />
+        <item itemvalue="Python.05. Number Between 1 and 100_v2" />
+        <item itemvalue="Python.03_word_reverse_v2" />
       </list>
     </recent_temporary>
   </component>
