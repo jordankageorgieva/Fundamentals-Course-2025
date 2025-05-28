@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="360dc9fb-f83d-49e7-843d-4b5574fa8efb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/.~lock.01-Basic-Syntax-Conditional-Statements-and-Loops-Lab.docx#" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/03_Wolf In Sheep's Clothing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/04_Sum Of A Beach.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +47,8 @@
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\01_Basic Syntax, Conditional Statements and Loops\_ex" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.7_Patterns">
-    <configuration name="03_word_reverse_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.04_Sum Of A Beach">
+    <configuration name="03_Wolf In Sheep's Clothing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,11 +56,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_lab/03_word_reverse_v2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/03_Wolf In Sheep's Clothing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05. Number Between 1 and 100_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_Sum Of A Beach" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +77,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_lab/05. Number Between 1 and 100_v2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/04_Sum Of A Beach.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.04_Sum Of A Beach" />
+        <item itemvalue="Python.03_Wolf In Sheep's Clothing" />
         <item itemvalue="Python.7_Patterns" />
         <item itemvalue="Python.06_Shopping" />
         <item itemvalue="Python.05_Number Between 1 and 100" />
-        <item itemvalue="Python.05. Number Between 1 and 100_v2" />
-        <item itemvalue="Python.03_word_reverse_v2" />
       </list>
     </recent_temporary>
   </component>
