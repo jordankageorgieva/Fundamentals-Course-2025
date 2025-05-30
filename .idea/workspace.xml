@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="360dc9fb-f83d-49e7-843d-4b5574fa8efb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/03_Wolf In Sheep's Clothing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/04_Sum Of A Beach.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/03_Wolf In Sheep's Clothing v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/ex/03-Lists-Basics-Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/lab/01. Strange Zoo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/lab/02. Courses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/lab/03-Lists-Basics-Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/lab/03. List Statistics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/lab/03. List Statistics_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/lab/03_List Basics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/lab/04. Search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/lab/05. Numbers Filter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/.~lock.01-Basic-Syntax-Conditional-Statements-and-Loops-More-Exercise.docx#" beforeDir="false" afterPath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/.~lock.01-Basic-Syntax-Conditional-Statements-and-Loops-More-Exercise.docx#" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,19 +45,23 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/phyton/03_List Basics/ex" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics\ex" />
+      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics\lab" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\01_Basic Syntax, Conditional Statements and Loops\_add" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\02_Data Types and Variables\__lab" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\02_Data Types and Variables\__more_ex" />
-      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\02_Data Types and Variables\__ex" />
-      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\01_Basic Syntax, Conditional Statements and Loops\_ex" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics\lab" />
+      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.04_Sum Of A Beach">
-    <configuration name="03_Wolf In Sheep's Clothing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.05. Numbers Filter">
+    <configuration name="01. Strange Zoo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,11 +69,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/03_List Basics/lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/03_Wolf In Sheep's Clothing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/03_List Basics/lab/01. Strange Zoo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_Sum Of A Beach" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02. Courses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/03_List Basics/lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/04_Sum Of A Beach.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/03_List Basics/lab/02. Courses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_Number Between 1 and 100" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. List Statistics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/03_List Basics/lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_lab/05_Number Between 1 and 100.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/03_List Basics/lab/03. List Statistics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_Shopping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04. Search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/03_List Basics/lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_lab/06_Shopping.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/03_List Basics/lab/04. Search.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7_Patterns" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05. Numbers Filter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,11 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/03_List Basics/lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_lab/7_Patterns.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/03_List Basics/lab/05. Numbers Filter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.04_Sum Of A Beach" />
-        <item itemvalue="Python.03_Wolf In Sheep's Clothing" />
-        <item itemvalue="Python.7_Patterns" />
-        <item itemvalue="Python.06_Shopping" />
-        <item itemvalue="Python.05_Number Between 1 and 100" />
+        <item itemvalue="Python.05. Numbers Filter" />
+        <item itemvalue="Python.04. Search" />
+        <item itemvalue="Python.03. List Statistics" />
+        <item itemvalue="Python.02. Courses" />
+        <item itemvalue="Python.01. Strange Zoo" />
       </list>
     </recent_temporary>
   </component>
