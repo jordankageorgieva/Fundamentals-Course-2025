@@ -5,18 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="360dc9fb-f83d-49e7-843d-4b5574fa8efb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/03_Wolf In Sheep's Clothing v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/ex/03-Lists-Basics-Exercise.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/lab/01. Strange Zoo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/lab/02. Courses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/lab/03-Lists-Basics-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/lab/03. List Statistics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/lab/03. List Statistics_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/lab/03_List Basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/lab/04. Search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/lab/05. Numbers Filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/ex/01. Invert Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/ex/02. Multiples List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/ex/03. Football Cards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/ex/04. Number Beggars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/ex/05. Faro Shuffle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/.~lock.01-Basic-Syntax-Conditional-Statements-and-Loops-More-Exercise.docx#" beforeDir="false" afterPath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/.~lock.01-Basic-Syntax-Conditional-Statements-and-Loops-More-Exercise.docx#" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phyton/01_Basic Syntax, Conditional Statements and Loops/_add/.~lock.01-Basic-Syntax-Conditional-Statements-and-Loops-More-Exercise.docx#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phyton/03_List Basics/lab/.~lock.03-Lists-Basics-Lab.docx#" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +56,8 @@
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.05. Numbers Filter">
-    <configuration name="01. Strange Zoo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.05. Faro Shuffle">
+    <configuration name="01. Invert Values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/03_List Basics/lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/03_List Basics/ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/03_List Basics/lab/01. Strange Zoo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/03_List Basics/ex/01. Invert Values.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02. Courses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02. Multiples List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/03_List Basics/lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/03_List Basics/ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/03_List Basics/lab/02. Courses.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/03_List Basics/ex/02. Multiples List.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. List Statistics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. Football Cards" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/03_List Basics/lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/03_List Basics/ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/03_List Basics/lab/03. List Statistics.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/03_List Basics/ex/03. Football Cards.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04. Search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04. Number Beggars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/03_List Basics/lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/03_List Basics/ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/03_List Basics/lab/04. Search.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/03_List Basics/ex/04. Number Beggars.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05. Numbers Filter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05. Faro Shuffle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/03_List Basics/lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/03_List Basics/ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/03_List Basics/lab/05. Numbers Filter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/03_List Basics/ex/05. Faro Shuffle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.05. Numbers Filter" />
-        <item itemvalue="Python.04. Search" />
-        <item itemvalue="Python.03. List Statistics" />
-        <item itemvalue="Python.02. Courses" />
-        <item itemvalue="Python.01. Strange Zoo" />
+        <item itemvalue="Python.05. Faro Shuffle" />
+        <item itemvalue="Python.04. Number Beggars" />
+        <item itemvalue="Python.03. Football Cards" />
+        <item itemvalue="Python.02. Multiples List" />
+        <item itemvalue="Python.01. Invert Values" />
       </list>
     </recent_temporary>
   </component>
