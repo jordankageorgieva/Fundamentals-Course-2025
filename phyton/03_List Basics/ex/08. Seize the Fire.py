@@ -15,7 +15,7 @@ while index < len(fire_cells):
     index += 1
 
     if fire_type == 'High' and 81 <= value <= 125:
-        if water_amount-value <0:
+        if water_amount - value < 0:
             continue
 
         burn_out_fire_cells.append(value)
