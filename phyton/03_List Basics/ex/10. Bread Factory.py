@@ -18,18 +18,18 @@ while index < len(working_day_event):
     # print(f"{event_type} - {number}")
 
     if event_type == 'rest':
-        previous_energy = gain_energy
-        gain_energy = min(gain_energy + number, initial_energy)
-        gained = gain_energy - previous_energy
-        print(f"You gained {gained} energy.")
-        print(f"Current energy: {gain_energy}.")
-        # if gain_energy + number >= initial_energy:
-        #     print(f"You gained 0 energy.")
-        #     print(f"Current energy: {gain_energy}.")
-        # else:
-        #     gain_energy += number
-        #     print(f"You gained {number} energy.")
-        #     print(f"Current energy: {gain_energy}.")
+        # previous_energy = gain_energy
+        # gain_energy = min(gain_energy + number, initial_energy)
+        # gained = gain_energy - previous_energy
+        # print(f"You gained {gained} energy.")
+        # print(f"Current energy: {gain_energy}.")
+        if gain_energy + number >= initial_energy:
+            print(f"You gained {gain_energy - initial_energy} energy.")
+            print(f"Current energy: {gain_energy}.")
+        else:
+            gain_energy += number
+            print(f"You gained {number} energy.")
+            print(f"Current energy: {gain_energy}.")
     elif event_type == 'order':
         if gain_energy - 30 >= 0:
             initial_coins += number
