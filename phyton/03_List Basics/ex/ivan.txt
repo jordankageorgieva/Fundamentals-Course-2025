@@ -1,0 +1,209 @@
+#1
+numbers_as_string = input().split(" ")
+opposite_numbers_as_integers = []
+for current_number in numbers_as_string:
+    current_number_as_integer = int(current_number)
+    opposite_number = -current_number_as_integer
+    opposite_numbers_as_integers.append(opposite_number)
+print(opposite_numbers_as_integers)
+
+
+#2
+
+factor = int(input())
+count = int(input())
+numbers = []
+for multiplier in range(1, count + 1):
+    numbers.append(factor * multiplier)
+print(numbers)
+
+#3
+
+team_a = ['A-1', 'A-2', 'A-3', 'A-4', 'A-5', 'A-6', 'A-7', 'A-8', 'A-9', 'A-10', 'A-11']
+team_b = ['B-1', 'B-2', 'B-3', 'B-4', 'B-5', 'B-6', 'B-7', 'B-8', 'B-9', 'B-10', 'B-11']
+game_was_terminated = False
+players = input().split()
+for player in players:
+    if player in team_a:
+        team_a.remove(player)
+    elif player in team_b:
+        team_b.remove(player)
+    if len(team_a) < 7 or len(team_b) < 7:
+        game_was_terminated = True
+        break
+print(f"Team A - {len(team_a)}; Team B - {len(team_b)}")
+if game_was_terminated: # if game_was_terminated == True
+    print("Game was terminated")
+
+
+#4
+
+money_as_string = input().split(", ")
+number_of_beggars= int(input())
+money_as_integer = []
+# money_as_integer = [int(money) for money in money_as_string]
+for current_money in money_as_string:
+    money_as_integer.append(int(current_money))
+final_list = []
+start_index = 0
+for current_beggar in range(number_of_beggars):
+    current_beggar_sum = 0
+    for index in range(start_index,len(money_as_integer), number_of_beggars):
+        current_beggar_sum += money_as_integer[index]
+    final_list.append(current_beggar_sum)
+    start_index += 1
+print(final_list)
+
+
+
+#9
+
+collection_of_items = input().split("|")
+budget = float(input())
+selling_price_list = []
+ticket = 150
+total_shopping_sum = 0
+total_selling_sum = 0
+for item in collection_of_items:
+    new_item = item.split("->")
+    current_item = new_item[0]
+    current_price = float(new_item[1])
+    if budget < current_price:
+        continue
+    if current_item == "Clothes" and current_price <= 50.00:
+        budget -= current_price
+        total_shopping_sum += current_price
+        selling_price = current_price + 0.4 * current_price
+        total_selling_sum += selling_price
+        selling_price_list.append(f"{selling_price:.2f}")
+    elif current_item == "Shoes" and current_price <= 35.00:
+        budget -= current_price
+        total_shopping_sum += current_price
+        selling_price = current_price + 0.4 * current_price
+        total_selling_sum += selling_price
+        selling_price_list.append(f"{selling_price:.2f}")
+    elif current_item == "Accessories" and current_price <= 20.50:
+        budget -= current_price
+        total_shopping_sum += current_price
+        selling_price = current_price + 0.4 * current_price
+        total_selling_sum += selling_price
+        selling_price_list.append(f"{selling_price:.2f}")
+final_budget = budget + total_selling_sum
+print(" ".join(selling_price_list))
+profit = total_selling_sum - total_shopping_sum
+print(f"Profit: {profit:.2f}")
+if final_budget >= ticket:
+    print("Hello, France!")
+else:
+    print("Not enough money.")
+
+
+#10
+
+
+events = input().split("|")
+current_energy = 100
+current_coins = 100
+bakery_is_open = True
+for event in events:
+    event_items = event.split("-")
+    type_of_event = event_items[0]
+    value_of_event = int(event_items[1])
+    if type_of_event == "rest":
+        initial_energy = current_energy
+        current_energy += value_of_event
+        if current_energy > 100:
+            current_energy = 100
+        gained_energy = current_energy - initial_energy
+        print(f"You gained {gained_energy} energy.")
+        print(f"Current energy: {current_energy}.")
+    elif type_of_event == "order":
+        if current_energy >= 30:
+            current_coins += value_of_event
+            current_energy -= 30
+            print(f"You earned {value_of_event} coins.")
+        else: # skip the order
+            current_energy += 50
+            print(f"You had to rest!")
+    else: # ingredients
+        if current_coins >= value_of_event:
+            current_coins -= value_of_event
+            print(f"You bought {type_of_event}.")
+        else: # bakery is closed
+            bakery_is_open = False
+            break
+if bakery_is_open: # if bakerY_is_open == True
+    print("Day completed!")
+    print(f"Coins: {current_coins}")
+    print(f"Energy: {current_energy}")
+else:
+    print(f"Closed! Cannot afford {type_of_event}.")
+
+
+
+
+
+
+# Examples
+
+
+my_list = [1, 2, 3, 4, 5]
+# my_list = [1, "a", 3, 5.14, 5]
+# my_list = ["Ivan Petrov", "Ivan Georgiev","C", "A"]
+#
+# my_list.sort()
+# print(my_list)
+# print(my_list)
+
+
+# my_list.pop(2)
+# print(my_list)
+
+# my_list = [1, 2, "Stamat", 4, 5]
+# number = my_list.pop(2)
+# print(number)
+#
+
+# index = 2
+# element = "test"
+# my_list.insert(index, element)
+# # my_list.insert(2, "test")
+# print(my_list)
+#
+
+# my_list[3], my_list[2] = my_list[2], my_list[3]
+# print(my_list)
+# if "Stamat" in my_list:
+#     number = my_list.index("Stamat")
+#     print(number)
+
+
+# repetition = my_list.count(65234)
+# print(repetition)
+
+
+# my_list.reverse()
+# print(my_list)
+# my_list = my_list[::-1]
+# print(my_list)
+
+#
+# index = 2
+# del my_list[index]
+# print(my_list)
+
+
+# some_element = "a"
+# while some_element in my_list:
+#     my_list.remove(some_element)
+# print(my_list)
+# print(my_list)
+
+# my_list = [1, 2, "Stamat", "a", 4, "a", 5, 2]
+# for index, value in enumerate(my_list):
+#     current_element = my_list.pop(index)
+#     print(my_list)
+#     print(f"Removing {current_element}")
+
+# for index in range(len(my_list) - 1, -1, -1):
+#     print(f"Removing {my_list.pop(index)}")

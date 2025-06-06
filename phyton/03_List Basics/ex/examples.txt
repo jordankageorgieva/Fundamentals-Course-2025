@@ -1,0 +1,63 @@
+# Examples
+
+
+my_list = [1, 2, 3, 4, 5]
+# my_list = [1, "a", 3, 5.14, 5]
+# my_list = ["Ivan Petrov", "Ivan Georgiev","C", "A"]
+#
+# my_list.sort()
+# print(my_list)
+# print(my_list)
+
+
+# my_list.pop(2)
+# print(my_list)
+
+# my_list = [1, 2, "Stamat", 4, 5]
+# number = my_list.pop(2)
+# print(number)
+#
+
+# index = 2
+# element = "test"
+# my_list.insert(index, element)
+# # my_list.insert(2, "test")
+# print(my_list)
+#
+
+# my_list[3], my_list[2] = my_list[2], my_list[3]
+# print(my_list)
+# if "Stamat" in my_list:
+#     number = my_list.index("Stamat")
+#     print(number)
+
+
+# repetition = my_list.count(65234)
+# print(repetition)
+
+
+# my_list.reverse()
+# print(my_list)
+# my_list = my_list[::-1]
+# print(my_list)
+
+#
+# index = 2
+# del my_list[index]
+# print(my_list)
+
+
+# some_element = "a"
+# while some_element in my_list:
+#     my_list.remove(some_element)
+# print(my_list)
+# print(my_list)
+
+# my_list = [1, 2, "Stamat", "a", 4, "a", 5, 2]
+# for index, value in enumerate(my_list):
+#     current_element = my_list.pop(index)
+#     print(my_list)
+#     print(f"Removing {current_element}")
+
+# for index in range(len(my_list) - 1, -1, -1):
+#     print(f"Removing {my_list.pop(index)}")

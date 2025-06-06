@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="360dc9fb-f83d-49e7-843d-4b5574fa8efb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/more/01. Zeros to Back.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/more/02. Messaging.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/more/02.Messaging_chatgpt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/more/Module division.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/ex/examples.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/ex/ivan.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phyton/04_Functions/lab/.~lock.04-Functions-Lab.docx#" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +36,13 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/phyton/04_Functions/lab" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/phyton/03_List Basics/ex" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics\ex" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\04_Functions\lab" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics\more" />
-      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics\ex" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics\lab" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\01_Basic Syntax, Conditional Statements and Loops\_add" />
     </key>
