@@ -5,21 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="360dc9fb-f83d-49e7-843d-4b5574fa8efb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/ex/Recursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/more/03-Lists-Basics-More-Exercises.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/more/6 List Manipulator - v 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/more/6. List Manipulator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/04_Functions/lab/01. Absolute Values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/04_Functions/lab/02. Grades.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/04_Functions/lab/03. Calculations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/04_Functions/lab/04-Functions-Lab.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/04_Functions/lab/04. Repeat String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/04_Functions/lab/05. Orders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/04_Functions/lab/06. Calculate Rectangle Area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/04_Functions/lab/07. Rounding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/more/01. Zeros to Back.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/more/02. Messaging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/more/02.Messaging_chatgpt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/more/Module division.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phyton/03_List Basics/ex/.~lock.03-Lists-Basics-Exercise.docx#" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phyton/03_List Basics/ex/10. Bread Factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/phyton/03_List Basics/ex/10. Bread Factory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phyton/04_Functions/lab/.~lock.04-Functions-Lab.docx#" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,8 +54,8 @@
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.07. Rounding">
-    <configuration name="03. Calculations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Module division">
+    <configuration name="01. Zeros to Back" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +63,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/04_Functions/lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/03_List Basics/more" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/04_Functions/lab/03. Calculations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/03_List Basics/more/01. Zeros to Back.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04. Repeat String" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02. Messaging" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/04_Functions/lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/03_List Basics/more" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/04_Functions/lab/04. Repeat String.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/03_List Basics/more/02. Messaging.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05. Orders" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02.Messaging_chatgpt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,32 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/04_Functions/lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/03_List Basics/more" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/04_Functions/lab/05. Orders.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="06. Calculate Rectangle Area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Fundamentals-Course-2025" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/04_Functions/lab" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/04_Functions/lab/06. Calculate Rectangle Area.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/03_List Basics/more/02.Messaging_chatgpt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,13 +139,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Module division" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentals-Course-2025" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/03_List Basics/more" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/03_List Basics/more/Module division.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Module division" />
+        <item itemvalue="Python.02.Messaging_chatgpt" />
+        <item itemvalue="Python.02. Messaging" />
+        <item itemvalue="Python.01. Zeros to Back" />
         <item itemvalue="Python.07. Rounding" />
-        <item itemvalue="Python.06. Calculate Rectangle Area" />
-        <item itemvalue="Python.05. Orders" />
-        <item itemvalue="Python.04. Repeat String" />
-        <item itemvalue="Python.03. Calculations" />
       </list>
     </recent_temporary>
   </component>
