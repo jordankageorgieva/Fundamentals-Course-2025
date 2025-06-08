@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="360dc9fb-f83d-49e7-843d-4b5574fa8efb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/ex/examples.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/ex/ivan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/03_List Basics/more/03. Car Race.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/04_Functions/ex/01. Smallest of Three Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/04_Functions/ex/02. Add and Subtract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/04_Functions/ex/03. Characters in Range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/04_Functions/ex/04-Functions-Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/04_Functions/ex/04. Odd and Even Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/04_Functions/ex/05. Even Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/04_Functions/ex/06. Sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/04_Functions/ex/07. Min Max and Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/04_Functions/ex/08. Palindrome Integers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/04_Functions/ex/09. Password Validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/04_Functions/ex/10. Perfect Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/04_Functions/ex/11. Loading Bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/04_Functions/ex/12. Factorial Division.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,23 +48,23 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/phyton/03_List Basics/ex" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/phyton/04_Functions/ex" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\04_Functions\ex" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics\ex" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\04_Functions\lab" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics\more" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics\lab" />
-      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\01_Basic Syntax, Conditional Statements and Loops\_add" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics\lab" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Module division">
-    <configuration name="01. Zeros to Back" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.12. Factorial Division">
+    <configuration name="08. Palindrome Integers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,11 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/03_List Basics/more" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/04_Functions/ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/03_List Basics/more/01. Zeros to Back.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/04_Functions/ex/08. Palindrome Integers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02. Messaging" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="09. Password Validator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/03_List Basics/more" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/04_Functions/ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/03_List Basics/more/02. Messaging.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/04_Functions/ex/09. Password Validator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02.Messaging_chatgpt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10. Perfect Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/03_List Basics/more" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/04_Functions/ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/03_List Basics/more/02.Messaging_chatgpt.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/04_Functions/ex/10. Perfect Number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07. Rounding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11. Loading Bar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/04_Functions/lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/04_Functions/ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/04_Functions/lab/07. Rounding.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/04_Functions/ex/11. Loading Bar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Module division" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="12. Factorial Division" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,11 +156,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/03_List Basics/more" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/04_Functions/ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/03_List Basics/more/Module division.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/04_Functions/ex/12. Factorial Division.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Module division" />
-        <item itemvalue="Python.02.Messaging_chatgpt" />
-        <item itemvalue="Python.02. Messaging" />
-        <item itemvalue="Python.01. Zeros to Back" />
-        <item itemvalue="Python.07. Rounding" />
+        <item itemvalue="Python.12. Factorial Division" />
+        <item itemvalue="Python.11. Loading Bar" />
+        <item itemvalue="Python.10. Perfect Number" />
+        <item itemvalue="Python.09. Password Validator" />
+        <item itemvalue="Python.08. Palindrome Integers" />
       </list>
     </recent_temporary>
   </component>
@@ -202,6 +214,11 @@
           <url>file://$PROJECT_DIR$/phyton/03_List Basics/ex/08. Seize the Fire.py</url>
           <line>5</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/phyton/04_Functions/ex/09. Password Validator.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
