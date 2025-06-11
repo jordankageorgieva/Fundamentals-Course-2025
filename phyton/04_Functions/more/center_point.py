@@ -9,6 +9,11 @@ Y2 = float(input())
 def distance_from_center(x: int, y: int) -> int:
     return math.sqrt(x * x + y * y)
 
+def closer_to_center_point(c1: int, c2: int) -> bool:
+    isC1closerPoint: bool = False
+    if C1.real < C2.real:
+        return isC1closerPoint
+    return isC1closerPoint
 
 C1 = distance_from_center(X1, Y1)
 C2 = distance_from_center(X2, Y2)
