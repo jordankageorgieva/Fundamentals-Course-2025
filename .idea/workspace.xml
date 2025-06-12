@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="360dc9fb-f83d-49e7-843d-4b5574fa8efb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/phyton/04_Functions/more/05. Multiplication Sign.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/05_lists-advanced/lab/01. No Vowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/05_lists-advanced/lab/02. Trains.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/05_lists-advanced/lab/03. To-do List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/05_lists-advanced/lab/03.To-do List_without_sorting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/05_lists-advanced/lab/04. Palindrome Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/05_lists-advanced/lab/05-Lists-Advanced-Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/05_lists-advanced/lab/05. Sorting Names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/05_lists-advanced/lab/06. Even Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/05_lists-advanced/lab/07. The Office.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phyton/04_Functions/more/.~lock.04-Functions-More-Exercises.docx#" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Python Stub" />
       </list>
     </option>
   </component>
@@ -35,23 +45,23 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/phyton/04_Functions/more" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/phyton/05_lists-advanced/lab" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\05_lists-advanced\lab" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\04_Functions\more" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\04_Functions\ex" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics\ex" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\04_Functions\lab" />
-      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics\more" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics\lab" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.05. Multiplication Sign">
-    <configuration name="01. Data Types" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.07. The Office">
+    <configuration name="03.To-do List_without_sorting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +69,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/04_Functions/more" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/05_lists-advanced/lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/04_Functions/more/01. Data Types.py" />
+      <option name="SCRIPT_NAME" value="C:\_soft_uni\Fundamentals-Course-2025\phyton\05_lists-advanced\lab\03.To-do List_without_sorting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. Longer Line" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04. Palindrome Strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/04_Functions/more" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/05_lists-advanced/lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/04_Functions/more/03. Longer Line.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/05_lists-advanced/lab/04. Palindrome Strings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04. Tribonacci Sequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05. Sorting Names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/04_Functions/more" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/05_lists-advanced/lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/04_Functions/more/04. Tribonacci Sequence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/05_lists-advanced/lab/05. Sorting Names.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05. Multiplication Sign" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06. Even Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/04_Functions/more" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/05_lists-advanced/lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/04_Functions/more/05. Multiplication Sign.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/05_lists-advanced/lab/06. Even Numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="center_point" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07. The Office" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/04_Functions/more" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/05_lists-advanced/lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\_soft_uni\Fundamentals-Course-2025\phyton\04_Functions\more\center_point.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/05_lists-advanced/lab/07. The Office.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.05. Multiplication Sign" />
-        <item itemvalue="Python.04. Tribonacci Sequence" />
-        <item itemvalue="Python.03. Longer Line" />
-        <item itemvalue="Python.center_point" />
-        <item itemvalue="Python.01. Data Types" />
+        <item itemvalue="Python.07. The Office" />
+        <item itemvalue="Python.06. Even Numbers" />
+        <item itemvalue="Python.05. Sorting Names" />
+        <item itemvalue="Python.04. Palindrome Strings" />
+        <item itemvalue="Python.03.To-do List_without_sorting" />
       </list>
     </recent_temporary>
   </component>
