@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="360dc9fb-f83d-49e7-843d-4b5574fa8efb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/phyton/05_lists-advanced/ex/11_soft_uni_chatgpt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/05_lists-advanced/more/01. Social Distribution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/05_lists-advanced/more/05-Lists-Advanced-More-Exercises.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/05_lists-advanced/more/social_distribution_chatgpt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/05_lists-advanced/more/social_distribution_v2_chatgpt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/05_lists-advanced/more/social_distribution_v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/exam/01. Registration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/exam/01_registrartin_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/exam/02. Destination Mapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/exam/Destination Mapper.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/exam/Registration.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phyton/05_lists-advanced/ex/11. SoftUni Course Planning.py" beforeDir="false" afterPath="$PROJECT_DIR$/phyton/05_lists-advanced/ex/11. SoftUni Course Planning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phyton/05_lists-advanced/ex/.~lock.05-Lists-Advanced-Exercise.docx#" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,23 +46,23 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/phyton/05_lists-advanced/ex" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/phyton/exam" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\exam" />
+      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\05_lists-advanced\more" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\05_lists-advanced\ex" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\05_lists-advanced\lab" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\04_Functions\more" />
-      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\04_Functions\ex" />
-      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics\ex" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics\lab" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.11. SoftUni Course Planning">
-    <configuration name="09. Anonymous Threat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.02. Destination Mapper">
+    <configuration name="01. Registration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +70,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/05_lists-advanced/ex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/05_lists-advanced/ex/09. Anonymous Threat.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/exam/01. Registration.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10. Pokemon Don't Go" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02. Destination Mapper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/05_lists-advanced/ex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/05_lists-advanced/ex/10. Pokemon Don't Go.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/exam/02. Destination Mapper.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11. SoftUni Course Planning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="social_distribution_chatgpt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/05_lists-advanced/ex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/05_lists-advanced/more" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/05_lists-advanced/ex/11. SoftUni Course Planning.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/05_lists-advanced/more/social_distribution_chatgpt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="anonymous treat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="social_distribution_v2_chatgpt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/05_lists-advanced/ex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/05_lists-advanced/more" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/05_lists-advanced/ex/anonymous treat.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/05_lists-advanced/more/social_distribution_v2_chatgpt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="social_distribution_v3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/05_lists-advanced/ex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/05_lists-advanced/more" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/05_lists-advanced/ex/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/05_lists-advanced/more/social_distribution_v3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.11. SoftUni Course Planning" />
-        <item itemvalue="Python.10. Pokemon Don't Go" />
-        <item itemvalue="Python.anonymous treat" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.09. Anonymous Threat" />
+        <item itemvalue="Python.02. Destination Mapper" />
+        <item itemvalue="Python.01. Registration" />
+        <item itemvalue="Python.social_distribution_v3" />
+        <item itemvalue="Python.social_distribution_v2_chatgpt" />
+        <item itemvalue="Python.social_distribution_chatgpt" />
       </list>
     </recent_temporary>
   </component>
@@ -223,6 +232,11 @@
           <url>file://$PROJECT_DIR$/phyton/05_lists-advanced/ex/anonymous treat.py</url>
           <line>32</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/phyton/05_lists-advanced/more/01. Social Distribution.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
