@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="360dc9fb-f83d-49e7-843d-4b5574fa8efb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/phyton/mid-exam-preparation-01/01. SoftUni Reception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/mid-exam-preparation-01/02. Array Modifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/mid-exam-preparation-01/03. Moving Target.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/mid-exam-preparation-01/Array Modifier.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/mid-exam-preparation-01/SoftUni Reception.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/exam_22_06_2025/_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/exam_22_06_2025/_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/exam_22_06_2025/_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/mid-exam-preparation-01/01. Counter-Strike.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/mid-exam-preparation-01/02. Shoot for the Win.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/mid-exam-preparation-01/ShootFortheWin.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +56,28 @@
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.03. Moving Target">
+  <component name="RunManager" selected="Python._1">
+    <configuration name="01. Counter-Strike" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentals-Course-2025" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/mid-exam-preparation-01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/mid-exam-preparation-01/01. Counter-Strike.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="01. SoftUni Reception" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02. Array Modifier" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02. Shoot for the Win" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,28 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/mid-exam-preparation-01/02. Array Modifier.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="03. Memory Game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Fundamentals-Course-2025" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/mid-exam-preparation-01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/mid-exam-preparation-01/03. Memory Game.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/mid-exam-preparation-01/02. Shoot for the Win.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/mid-exam-preparation-01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/exam_22_06_2025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/mid-exam-preparation-01/03. Numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/exam_22_06_2025/_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python._1" />
+        <item itemvalue="Python.01. Counter-Strike" />
+        <item itemvalue="Python.02. Shoot for the Win" />
         <item itemvalue="Python.03. Moving Target" />
         <item itemvalue="Python.01. SoftUni Reception" />
-        <item itemvalue="Python.02. Array Modifier" />
-        <item itemvalue="Python.03. Numbers" />
-        <item itemvalue="Python.03. Memory Game" />
       </list>
     </recent_temporary>
   </component>
