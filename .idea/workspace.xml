@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="360dc9fb-f83d-49e7-843d-4b5574fa8efb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/phyton/exam_22_06_2025/_1_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/exam_22_06_2025/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/05_lists-advanced/more/02. Take-Skip Rope.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phyton/exam_22_06_2025/_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/phyton/exam_22_06_2025/_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phyton/exam_22_06_2025/_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/phyton/exam_22_06_2025/_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phyton/exam_22_06_2025/_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/phyton/exam_22_06_2025/_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,23 +36,23 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/phyton/mid-exam-preparation-01" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/phyton/05_lists-advanced/more" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\05_lists-advanced\more" />
+      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\exam_22_06_2025" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\mid-exam-preparation-01" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\exam" />
-      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\05_lists-advanced\more" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\05_lists-advanced\ex" />
-      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\05_lists-advanced\lab" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics\lab" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="01. Counter-Strike" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.02. Take-Skip Rope">
+    <configuration name="02. Take-Skip Rope" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,11 +60,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/mid-exam-preparation-01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/05_lists-advanced/more" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/mid-exam-preparation-01/01. Counter-Strike.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/05_lists-advanced/more/02. Take-Skip Rope.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.02. Take-Skip Rope" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python._1" />
         <item itemvalue="Python._3" />
         <item itemvalue="Python._2" />
-        <item itemvalue="Python.01. Counter-Strike" />
       </list>
     </recent_temporary>
   </component>
@@ -236,6 +232,16 @@
           <url>file://$PROJECT_DIR$/phyton/mid-exam-preparation-01/03. Memory Game.py</url>
           <line>10</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/phyton/05_lists-advanced/more/02. Take-Skip Rope.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/phyton/05_lists-advanced/more/02. Take-Skip Rope.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
