@@ -5,8 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="360dc9fb-f83d-49e7-843d-4b5574fa8efb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/phyton/05_lists-advanced/more/03. Kate's Way Out.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/05_lists-advanced/more/03. Kate's Way Out_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/08-Objects-and-Classes/ex/01. Storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/08-Objects-and-Classes/ex/02. Weapon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/08-Objects-and-Classes/ex/03. Catalogue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/08-Objects-and-Classes/ex/04. Town.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/08-Objects-and-Classes/ex/05. Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/08-Objects-and-Classes/ex/08-Objects-and-Classes-Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/08-Objects-and-Classes/lab/01. Comment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/08-Objects-and-Classes/lab/02. Party.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/08-Objects-and-Classes/lab/03. Email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/08-Objects-and-Classes/lab/04. Zoo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/08-Objects-and-Classes/lab/05. Circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/08-Objects-and-Classes/lab/08-Objects-and-Classes-Lab.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phyton/05_lists-advanced/more/.~lock.05-Lists-Advanced-More-Exercises.docx#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phyton/05_lists-advanced/more/03. Kate's Way Out.py" beforeDir="false" afterPath="$PROJECT_DIR$/phyton/05_lists-advanced/more/03. Kate's Way Out.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,23 +50,24 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/phyton/05_lists-advanced/more" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/phyton/08-Objects-and-Classes/ex" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\08-Objects-and-Classes\ex" />
+      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\08-Objects-and-Classes" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\05_lists-advanced\more" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\exam_22_06_2025" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\mid-exam-preparation-01" />
-      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\exam" />
-      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\05_lists-advanced\ex" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\08-Objects-and-Classes\lab" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics\lab" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.03. Kate's Way Out">
-    <configuration name="02. Take-Skip Rope" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.05. Class">
+    <configuration name="01. Storage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/05_lists-advanced/more" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/08-Objects-and-Classes/ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/05_lists-advanced/more/02. Take-Skip Rope.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/08-Objects-and-Classes/ex/01. Storage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. Kate's Way Out" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02. Weapon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/05_lists-advanced/more" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/08-Objects-and-Classes/ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/05_lists-advanced/more/03. Kate's Way Out.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/08-Objects-and-Classes/ex/02. Weapon.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. Catalogue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/exam_22_06_2025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/08-Objects-and-Classes/ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/exam_22_06_2025/_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/08-Objects-and-Classes/ex/03. Catalogue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04. Town" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/exam_22_06_2025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/08-Objects-and-Classes/ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/exam_22_06_2025/_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/08-Objects-and-Classes/ex/04. Town.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05. Class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,11 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/exam_22_06_2025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/08-Objects-and-Classes/ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/exam_22_06_2025/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/08-Objects-and-Classes/ex/05. Class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.03. Kate's Way Out" />
-        <item itemvalue="Python.02. Take-Skip Rope" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python._1" />
-        <item itemvalue="Python._3" />
+        <item itemvalue="Python.05. Class" />
+        <item itemvalue="Python.04. Town" />
+        <item itemvalue="Python.03. Catalogue" />
+        <item itemvalue="Python.02. Weapon" />
+        <item itemvalue="Python.01. Storage" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +260,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/phyton/05_lists-advanced/more/03. Kate's Way Out.py</url>
-          <line>9</line>
+          <line>11</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
