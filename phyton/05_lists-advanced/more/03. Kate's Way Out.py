@@ -20,9 +20,9 @@ for _ in range(rows):
             else:
                 curr_steps_lst.append(curr_steps)
                 curr_steps = 0
-        # print(curr_steps_lst)
-        # print(k_in)
-        # print(way_out_g)
+        print(curr_steps_lst)
+        print(k_in)
+        print(way_out_g)
         if curr_steps_lst and max(curr_steps_lst) == 0 and k_in:
             way_out_g = False
         elif curr_steps_lst and  max(curr_steps_lst) > 0 and k_in:
