@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="360dc9fb-f83d-49e7-843d-4b5574fa8efb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/phyton/09-Dictionaries/ex/01. Count Chars in a String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/09-Dictionaries/ex/02. A Miner Task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/09-Dictionaries/ex/03. Capitals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/09-Dictionaries/ex/04. Phonebook.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/09-Dictionaries/ex/05. Legendary Farming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/09-Dictionaries/ex/06. Orders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/09-Dictionaries/ex/07. SoftUni Parking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/09-Dictionaries/ex/08. Courses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/09-Dictionaries/ex/09-Dictionaries-Exercise.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/09-Dictionaries/ex/09. Student Academy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/09-Dictionaries/ex/10. Company Users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/09-Dictionaries/ex/11. Force Book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/09-Dictionaries/ex/12. SoftUni Exam Results.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/09-Dictionaries/ex/force_book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/09-Dictionaries/more/09-Dictionaries-More-Exercise.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phyton/09-Dictionaries/lab/.~lock.09-Dictionaries-Lab.docx#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/phyton/09-Dictionaries/ex/.~lock.09-Dictionaries-Exercise.docx#" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,15 +37,15 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/phyton/09-Dictionaries/ex" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/phyton/09-Dictionaries/more" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\09-Dictionaries\more" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\09-Dictionaries\ex" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\09-Dictionaries\lab" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\08-Objects-and-Classes\ex" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\08-Objects-and-Classes" />
-      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\05_lists-advanced\more" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\08-Objects-and-Classes\lab" />
