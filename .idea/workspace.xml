@@ -5,14 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="360dc9fb-f83d-49e7-843d-4b5574fa8efb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/lab/01. Reverse Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/lab/02. Repeat Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/lab/03. Substring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/lab/04. Text Filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/lab/05. Digits, Letters and Other.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/lab/10-Text-Processing-Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/01. Valid Usernames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/02. Character Multiplier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/03. Extract File.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/04. Caesar Cipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/05. Emoticon Finder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/06. Replace Repeating Chars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/07. String Explosion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/08. Letters Change Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/09. Rage Quit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/10-Text-Processing-Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/10. Winning Ticket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/test_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phyton/09-Dictionaries/more/.~lock.09-Dictionaries-More-Exercise.docx#" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,15 +48,15 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/phyton/10_Text Processing/lab" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/phyton/10_Text Processing/ex" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\10_Text Processing\ex" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\10_Text Processing\lab" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\09-Dictionaries\more" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\09-Dictionaries\ex" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\09-Dictionaries\lab" />
-      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\08-Objects-and-Classes\ex" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\08-Objects-and-Classes\lab" />
@@ -58,8 +64,8 @@
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\03_List Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.05. Digits, Letters and Other">
-    <configuration name="02. Repeat Strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.10. Winning Ticket">
+    <configuration name="07. String Explosion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,11 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/10_Text Processing/lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/10_Text Processing/ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/10_Text Processing/lab/02. Repeat Strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/10_Text Processing/ex/07. String Explosion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. Substring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="08. Letters Change Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/10_Text Processing/lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/10_Text Processing/ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/10_Text Processing/lab/03. Substring.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/10_Text Processing/ex/08. Letters Change Numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04. Text Filter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="09. Rage Quit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +115,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/10_Text Processing/lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/10_Text Processing/ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/10_Text Processing/lab/04. Text Filter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/10_Text Processing/ex/09. Rage Quit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05. Digits, Letters and Other" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10. Winning Ticket" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/10_Text Processing/lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/10_Text Processing/ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/10_Text Processing/lab/05. Digits, Letters and Other.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/10_Text Processing/ex/10. Winning Ticket.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12. SoftUni Exam Results" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals-Course-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,11 +157,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/09-Dictionaries/ex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phyton/10_Text Processing/ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/09-Dictionaries/ex/12. SoftUni Exam Results.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phyton/10_Text Processing/ex/test_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.05. Digits, Letters and Other" />
-        <item itemvalue="Python.04. Text Filter" />
-        <item itemvalue="Python.03. Substring" />
-        <item itemvalue="Python.02. Repeat Strings" />
-        <item itemvalue="Python.12. SoftUni Exam Results" />
+        <item itemvalue="Python.10. Winning Ticket" />
+        <item itemvalue="Python.09. Rage Quit" />
+        <item itemvalue="Python.08. Letters Change Numbers" />
+        <item itemvalue="Python.test_2" />
+        <item itemvalue="Python.07. String Explosion" />
       </list>
     </recent_temporary>
   </component>
@@ -269,6 +275,31 @@
           <url>file://$PROJECT_DIR$/phyton/10_Text Processing/lab/03. Substring.py</url>
           <line>6</line>
           <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/phyton/10_Text Processing/ex/01. Valid Usernames.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/phyton/10_Text Processing/ex/test.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/phyton/10_Text Processing/ex/07. String Explosion.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/phyton/10_Text Processing/ex/07. String Explosion.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/phyton/10_Text Processing/ex/10. Winning Ticket.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
