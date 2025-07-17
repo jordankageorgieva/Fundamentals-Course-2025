@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="360dc9fb-f83d-49e7-843d-4b5574fa8efb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/more/10-Text-Processing-More-Exercises.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phyton/10_Text Processing/ex/10. Winning Ticket.py" beforeDir="false" afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/10. Winning Ticket.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,15 +36,15 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/phyton/10_Text Processing/ex" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/phyton/10_Text Processing/more" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\10_Text Processing\more" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\10_Text Processing\ex" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\10_Text Processing\lab" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\09-Dictionaries\more" />
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\09-Dictionaries\ex" />
-      <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\09-Dictionaries\lab" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\_soft_uni\Fundamentals-Course-2025\phyton\08-Objects-and-Classes\lab" />
