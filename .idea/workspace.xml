@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="360dc9fb-f83d-49e7-843d-4b5574fa8efb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/01. Valid Usernames.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/02. Character Multiplier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/03. Extract File.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/04. Caesar Cipher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/05. Emoticon Finder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/06. Replace Repeating Chars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/07. String Explosion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/08. Letters Change Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/09. Rage Quit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/10-Text-Processing-Exercise.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/10. Winning Ticket.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/test_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phyton/10_Text Processing/ex/10. Winning Ticket.py" beforeDir="false" afterPath="$PROJECT_DIR$/phyton/10_Text Processing/ex/10. Winning Ticket.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

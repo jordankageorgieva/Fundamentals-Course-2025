@@ -16,7 +16,7 @@ simbols = ['@', '#', '$' , '^']
 tickets = input().split(", ")
 for ticket in tickets:
     ticket = ticket.strip()
-    if len(ticket) < 20 :
+    if len(ticket) != 20 :
         print("invalid ticket")
         continue
     ticket_front = ticket[:10]
